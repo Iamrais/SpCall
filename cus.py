@@ -11,14 +11,7 @@ def mengetik(z):
       time.sleep(0.02)
 
 os.system('clear')
-print ('\033[36;1mSubscribe yt ku ngab \033[37mMisterAM \033[36mok! :v')
-os.system('termux-open-url https://youtube.com/channel/UCXk4vbvDl7i6dxWBtNdpx6w')
-sleep(5)
-os.system('clear')
-print ('\033[36;1mJoin juga Grub \033[37;1mWA gua ngab :v')
-os.system('xdg-open https://cararegistrasi.com/5QxXfcSkSsm')
-sleep(3)
-os.system('clear')
+
 # Ubah Terserah kalian
 print ("")
 mengetik("\033[36;1m ███████╗██████╗  █████╗ ███╗   ███╗ \033[33;1m ╔██████╗ █████╗ ██╗     ██╗")
@@ -29,7 +22,7 @@ mengetik("\033[37;1m ███████║██║     ██║  ██║�
 mengetik("\033[37;1m ╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝ \033[37;1m  ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝")
 print ("")
 mengetik("\033[33;1m╔════════════════════════════════════════════════╗")
-mengetik("\033[33;1m║  \033[36;1m [•] Authour : MisterAM                      \033[33;1m ║")
+mengetik("\033[33;1m║  \033[36;1m [•] Authour : theReaper                     \033[33;1m ║")
 mengetik("\033[33;1m║  \033[36;1m [•] gitHub  : https:github.com/Mister-AM    \033[33;1m ║")
 mengetik("\033[33;1m║  \033[36;1m [•] Yotube  : MisterAM                      \033[33;1m ║")
 mengetik("\033[33;1m╚════════════════════════════════════════════════╝")
